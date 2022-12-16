@@ -1,0 +1,94 @@
+body{
+    margin: 0px;
+}
+.sec-1{
+    background-image: url(H:\CIT\web\brunch\images\background-1.png);
+    width: 100%;
+    height: 500px;
+}
+.bg-1{
+    width: 100%;
+    height: 500px;
+    position: absolute;
+    z-index: -1;
+}
+.navbar-nav{
+    margin-left: 300px;
+}
+.brunch-box{
+    height: 300PX;
+    width: 400PX;
+    background-color: white;
+    opacity: 70%;
+    position: relative;
+    top: 100px;
+    left: 500px;
+}
+.row-2-text{
+    height: 300px;
+    color: white;
+    background-color: #2a3b40;
+}
+.text-r-2{
+    position: relative;
+    top: 100px;
+}
+.img-2{
+    height: 250px;
+    position: relative;
+    left:50px;
+    top: 30px;
+}
+.row-2-img{
+    background-color: #2a3b40;
+}
+.text-row-3-a{
+    padding: 50px;
+}
+.text-row-3-b{
+    padding: 50px;
+}
+.text-row-3-c{
+    padding: 50px;
+}
+.img-sec-4{
+    width: 100%;
+    height: 1150px;
+    position: absolute;
+    z-index: -1;
+}
+.sec-4{
+    height: 800px;
+}
+.box-sec-4{
+    width: 70%;
+    height: 1000px;
+    background-color: white;
+    opacity: 80%;
+    position: relative;
+    top: 100px;
+    left: 200px;
+}
+.sec-4-text{
+    text-align: center;
+}
+.brunch-box-text{
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+.item-nav{
+    color: white;
+}
+.dish-img{
+    height: 300px;
+  
+}
+.bg-img-3{
+    position: relative;
+    top: 350px;
+    
+    width: 100%;
+    position: absolute;
+    
+}
